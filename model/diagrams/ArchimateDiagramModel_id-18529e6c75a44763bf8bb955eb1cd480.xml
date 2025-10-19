@@ -39,7 +39,7 @@
       id="id-0c42411c9e6849679c6a566c79096297"
       targetConnections="id-9b23374b4d1e425f80dd881925b6775c">
     <bounds
-        x="984"
+        x="768"
         y="24"
         width="120"
         height="55"/>
@@ -60,7 +60,7 @@
           href="CompositionRelationship_id-8beb09341226467ca6059f256e5e0d61.xml#id-8beb09341226467ca6059f256e5e0d61"/>
     </sourceConnections>
     <bounds
-        x="984"
+        x="768"
         y="96"
         width="120"
         height="55"/>

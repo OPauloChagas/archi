@@ -39,8 +39,8 @@
       id="id-9673bb6ae54949efbca438d85130a72f"
       targetConnections="id-dbcf44f30bdf41b3a2958b0e8dbb899c">
     <bounds
-        x="948"
-        y="20"
+        x="696"
+        y="6"
         width="120"
         height="55"/>
     <archimateElement
@@ -60,8 +60,8 @@
           href="CompositionRelationship_id-c75f26d4c1d9467f9f95e76d41f75cdd.xml#id-c75f26d4c1d9467f9f95e76d41f75cdd"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="108"
+        x="720"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement

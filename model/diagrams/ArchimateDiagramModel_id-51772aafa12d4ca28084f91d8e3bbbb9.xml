@@ -53,8 +53,8 @@
     <bounds
         x="972"
         y="144"
-        width="120"
-        height="55"/>
+        width="134"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-9495330cdde044a491eb07a91112745c.xml#id-9495330cdde044a491eb07a91112745c"/>
