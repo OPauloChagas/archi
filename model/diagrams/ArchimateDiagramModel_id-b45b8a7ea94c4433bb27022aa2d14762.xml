@@ -451,7 +451,7 @@
     <bounds
         y="603"
         width="120"
-        height="46"/>
+        height="32"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-4beaded21f58456486aedecbd30abaa5.xml#id-4beaded21f58456486aedecbd30abaa5"/>
