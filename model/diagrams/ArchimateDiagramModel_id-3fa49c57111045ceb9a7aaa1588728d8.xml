@@ -1,0 +1,50 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AE Tem Tudo Para Carro - To_Be"
+    id="id-3fa49c57111045ceb9a7aaa1588728d8">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-8ca8b28384b64db0a05e36860b9a25bd"
+      name="Arq Estratégica"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="36"
+        width="1153"
+        height="313"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-fa0df9871f8648b786d06f28a5f1a8e3"
+      name="Arq Negócios"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="384"
+        width="1153"
+        height="205"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1894875b24a44c22b6bbec273e5dc850"
+      name="Arq Dados"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="612"
+        width="589"
+        height="224"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-64001a7b1e814aae94f0c5b60294d751"
+      name="Arq Aplicação"
+      textAlignment="1">
+    <bounds
+        x="648"
+        y="612"
+        width="553"
+        height="224"/>
+  </children>
+</archimate:ArchimateDiagramModel>
