@@ -24,68 +24,16 @@
         height="577"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-00fd9432f0a5472e9ad9b7f22a55fa15"
+        id="id-41662fdd30ec443985154a2246d9be04"
         fillColor="#ffff95"
-        content="Fabricantes e distribuidores de peças originais e paralelas."
+        content="Fabricantes e distribuidores de peças originais e paralelas.&#xD;&#xA;Gateways de pagamento e fintechs.&#xD;&#xA;Transportadoras e operadores logísticos.&#xD;&#xA;Parceiros de tecnologia (hospedagem, segurança, IA e CRM).&#xD;&#xA;Plataformas de e-commerce e marketing digital.&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="30"
-          y="36"
-          width="111"
-          height="81"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-b81fd23f88f54822b9f3e54892a4a555"
-        fillColor="#ffff95"
-        content="Transportadoras e operadores logísticos.&#xD;&#xA;"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="122"
-          y="132"
-          width="95"
-          height="85"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-0349de58cbf14fe8b373cc78da039036"
-        fillColor="#ffff95"
-        content="Gateways de pagamento e fintechs."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="30"
-          y="156"
-          width="75"
-          height="76"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-3a4ea477e2b64614920c56cc72cef4c7"
-        fillColor="#ffff95"
-        content="Plataformas de e-commerce e marketing digital."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="122"
-          y="263"
-          width="85"
-          height="91"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-931efc99e4f04107a3d31a136a6faf4d"
-        fillColor="#ffff95"
-        content="Parceiros de tecnologia (hospedagem, segurança, IA e CRM)."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="264"
-          width="94"
-          height="90"/>
+          x="24"
+          y="108"
+          width="195"
+          height="301"/>
     </children>
   </children>
   <children
@@ -106,81 +54,16 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-95fcdbeb02734f1faa9f48db9f0c347d"
+        id="id-b55ec62114604eb3b2915535229f6ee4"
         fillColor="#ffff95"
-        content="Gestão do e-commerce e catálogo digital."
+        content="Integração logística e controle de estoque.&#xD;&#xA;Gestão do e-commerce e catálogo digital.&#xD;&#xA;Atendimento e suporte online.&#xD;&#xA;Marketing digital e otimização de SEO.&#xD;&#xA;Desenvolvimento tecnológico e experiência do usuário (UX/UI).&#xD;&#xA;Negociação com fornecedores e atualização de preços.&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
-          y="36"
-          width="88"
-          height="75"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-15b590b1e471487d9b9c47f97ed9e6ad"
-        fillColor="#ffff95"
-        content="Integração logística e controle de estoque."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="108"
-          y="28"
-          width="85"
-          height="91"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-d4038afec55e4a108ad70aac7abdac0a"
-        fillColor="#ffff95"
-        content="Marketing digital e otimização de SEO."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="14"
-          y="120"
-          width="83"
-          height="74"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-88c0e864bcc745d3bf6164c1fa612aef"
-        fillColor="#ffff95"
-        content="Atendimento e suporte online."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="104"
-          y="126"
-          width="94"
-          height="62"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-8a6a4af440094a6e8e17800ba1cf0374"
-        fillColor="#ffff95"
-        content="Desenvolvimento tecnológico e experiência do usuário (UX/UI)."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="204"
-          width="115"
-          height="73"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-511359d66bea430b9ee3cd683cb9b8dc"
-        fillColor="#ffff95"
-        content="Negociação com fornecedores e atualização de preços."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="132"
-          y="187"
-          width="85"
-          height="90"/>
+          y="48"
+          width="193"
+          height="229"/>
     </children>
   </children>
   <children
@@ -201,67 +84,16 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-c5a414ef168f4daa8e7b82daf7e64a27"
+        id="id-e099afd5ff0945439eb2ed5297192e75"
         fillColor="#ffff95"
-        content="Plataforma de e-commerce e app mobile."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          y="24"
-          width="85"
-          height="73"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-794220b54c434f618d70094d740a3cd2"
-        fillColor="#ffff95"
-        content="Base de dados de produtos e clientes."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="96"
-          y="29"
-          width="85"
-          height="80"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-0fcbd55b809344db8d1a8a71c008a724"
-        fillColor="#ffff95"
-        content="Infraestrutura tecnológica segura e escalável."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="5"
-          y="108"
-          width="92"
-          height="82"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-d41ed160f7914cc4bc38ead5ff36edc6"
-        fillColor="#ffff95"
-        content="Equipe de marketing, tecnologia e atendimento."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="101"
-          y="117"
-          width="104"
-          height="73"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-bfd5050959684196a73ab12545e2ad56"
-        fillColor="#ffff95"
-        content="Parcerias com fornecedores e operadores logísticos."
+        content="Plataforma de e-commerce e app mobile.&#xD;&#xA;Base de dados de produtos e clientes&#xD;&#xA;Infraestrutura tecnológica segura e escalável.&#xD;&#xA;Equipe de marketing, tecnologia e atendimento.&#xD;&#xA;Parcerias com fornecedores e operadores logísticos."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
-          y="192"
-          width="120"
-          height="85"/>
+          y="60"
+          width="193"
+          height="205"/>
     </children>
   </children>
   <children
@@ -288,10 +120,10 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="104"
+          x="24"
+          y="108"
           width="181"
-          height="245"/>
+          height="269"/>
     </children>
   </children>
   <children
@@ -312,68 +144,16 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-e33c69bf17e44cad944e35d2b8b80ff4"
+        id="id-47fadbb7d4df4b6b8dea9feb95b1361a"
         fillColor="#ffff95"
-        content="Suporte via chat online e WhatsApp."
+        content="Suporte via chat online e WhatsApp.&#xD;&#xA;Atendimento personalizado e acompanhamento pós-venda.&#xD;&#xA;Programas de fidelidade, pontos e cashback.&#xD;&#xA;Autoatendimento e acompanhamento de pedidos em tempo real.&#xD;&#xA;E-mails e notificações com recomendações personalizadas."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
+          x="24"
           y="48"
-          width="98"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-4f38a178ead44237b5531dc299149e69"
-        fillColor="#ffff95"
-        content="Atendimento personalizado e acompanhamento pós-venda."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="120"
-          y="43"
-          width="109"
-          height="73"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-6440cc7b7f9146569fd9d3ec83a0213a"
-        fillColor="#ffff95"
-        content="Programas de fidelidade, pontos e cashback."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="8"
-          y="115"
-          width="105"
-          height="82"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-192d277400a546539cded9139dd2b5e1"
-        fillColor="#ffff95"
-        content="E-mails e notificações com recomendações personalizadas."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="126"
-          y="120"
-          width="97"
-          height="93"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-8e24eab1f48b4558a3c0948f9a6ccda7"
-        fillColor="#ffff95"
-        content="Autoatendimento e acompanhamento de pedidos em tempo real."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="4"
-          y="196"
-          width="117"
-          height="93"/>
+          width="193"
+          height="218"/>
     </children>
   </children>
   <children
@@ -394,67 +174,16 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-fad2db953326458db50b59749621deb3"
+        id="id-30d4f1de9b904e758b630aeae37f45df"
         fillColor="#ffff95"
-        content="E-commerce responsivo (desktop e mobile)."
+        content="Redes sociais e campanhas digitais (Instagram, Google Ads, Facebook).&#xD;&#xA;Marketplaces integrados.&#xD;&#xA;E-commerce responsivo (desktop e mobile).&#xD;&#xA;Aplicativo próprio (com catálogo inteligente).&#xD;&#xA;Atendimento omnichannel (telefone, chat, e-mail, WhatsApp)."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="24"
-          width="108"
-          height="83"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-fb2f352b63aa4702b0ecc6f9f4583fde"
-        fillColor="#ffff95"
-        content="Aplicativo próprio (com catálogo inteligente)."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="120"
-          y="24"
-          width="85"
-          height="113"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-1b7b9bbda3c643f394a77e7b361976e5"
-        fillColor="#ffff95"
-        content="Redes sociais e campanhas digitais (Instagram, Google Ads, Facebook)."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="108"
-          width="108"
-          height="109"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-90471b03e7094c15b68a7ece6dab1f6d"
-        fillColor="#ffff95"
-        content="Marketplaces integrados."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="125"
-          y="144"
-          width="92"
-          height="97"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-8f9d67b3a72940cfa1e38b1978f29708"
-        fillColor="#ffff95"
-        content="Atendimento omnichannel (telefone, chat, e-mail, WhatsApp)."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          y="228"
-          width="157"
-          height="61"/>
+          x="24"
+          y="48"
+          width="181"
+          height="217"/>
     </children>
   </children>
   <children
@@ -477,14 +206,14 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-4247959993ae45e8912fe7bdabea3363"
         fillColor="#ffff95"
-        content="Consumidor final (motoristas, mecânicos e entusiastas automotivos).&#xD;&#xA;&#xD;&#xA;Oficinas e revendas independentes.&#xD;&#xA;&#xD;&#xA;Empresas de frotas e transportadoras.&#xD;&#xA;&#xD;&#xA;Parceiros B2B e marketplaces."
+        content="Consumidor final (motoristas, mecânicos e entusiastas automotivos).&#xD;&#xA;Oficinas e revendas independentes.&#xD;&#xA;Empresas de frotas e transportadoras.&#xD;&#xA;Parceiros B2B e marketplaces."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="48"
-          y="96"
-          width="128"
-          height="288"/>
+          x="36"
+          y="108"
+          width="140"
+          height="289"/>
     </children>
   </children>
   <children
@@ -505,81 +234,16 @@
         height="181"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-fee9bd2b20db49dab9509abc728b20fd"
+        id="id-a485541babb443b0890ed02525f7bd14"
         fillColor="#ffff95"
-        content="Custos com tecnologia (servidores, hospedagem, manutenção)."
+        content="Custos com tecnologia (servidores, hospedagem, manutenção).&#xD;&#xA;Logística e frete.&#xD;&#xA;Taxas de pagamento online e comissões de marketplace.&#xD;&#xA;Custos administrativos e operacionais.&#xD;&#xA;Marketing digital (mídia paga, SEO, influenciadores).&#xD;&#xA;Equipe de atendimento e suporte."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="24"
-          width="126"
-          height="98"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-dc368ed106ff4a2e83305587b78d7091"
-        fillColor="#ffff95"
-        content="Marketing digital (mídia paga, SEO, influenciadores)."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="144"
-          y="24"
-          width="109"
-          height="98"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-a68dbbe466fe4a4b8aaaee4a86b4d45e"
-        fillColor="#ffff95"
-        content="Logística e frete."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="264"
-          y="12"
-          width="75"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-b02c1a3818f347fb9d8897488861d890"
-        fillColor="#ffff95"
-        content="Equipe de atendimento e suporte."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="264"
-          y="84"
-          width="85"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-262486d0338348b8b1d641cae68b4d5c"
-        fillColor="#ffff95"
-        content="Taxas de pagamento online e comissões de marketplace."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="348"
-          y="12"
-          width="97"
-          height="97"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-2449c196080a490ea32e9ed8c8219b44"
-        fillColor="#ffff95"
-        content="Custos administrativos e operacionais."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="456"
-          y="41"
-          width="97"
-          height="106"/>
+          x="47"
+          y="36"
+          width="434"
+          height="133"/>
     </children>
   </children>
   <children
@@ -601,68 +265,16 @@
         height="181"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-06cd964f75e646829609fb575eab2f5f"
+        id="id-beaf1728f3614998af431b941f3661a8"
         fillColor="#ffff95"
-        content="Vendas diretas pelo e-commerce."
+        content="Taxas de frete e serviços adicionais.&#xD;&#xA;Comissões de parceiros e afiliados.&#xD;&#xA;Vendas diretas pelo e-commerce.&#xD;&#xA;Publicidade e destaque de produtos na plataforma.&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="24"
-          width="101"
-          height="68"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-b8ed482659394d94adb3e81c88007b1c"
-        fillColor="#ffff95"
-        content="Comissões de parceiros e afiliados."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="120"
-          y="26"
-          width="106"
-          height="64"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-88b80e66e94343f0acbab0bf7bfb0f4e"
-        fillColor="#ffff95"
-        content="Programas de assinatura e planos de manutenção."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="228"
-          y="26"
-          width="121"
-          height="71"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-4a04025d74684403a95b0fac69f2b644"
-        fillColor="#ffff95"
-        content="Taxas de frete e serviços adicionais."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="360"
-          y="26"
-          width="97"
-          height="83"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-8943f7b9100942449bdec8185dc97796"
-        fillColor="#ffff95"
-        content="Publicidade e destaque de produtos na plataforma."
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="60"
-          y="96"
-          width="109"
-          height="73"/>
+          x="48"
+          y="36"
+          width="421"
+          height="133"/>
     </children>
   </children>
   <children
