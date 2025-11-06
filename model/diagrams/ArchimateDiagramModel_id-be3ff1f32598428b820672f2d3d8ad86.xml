@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Fluxo de valor Tem Tudo para Carro -TO-BE"
+    id="id-be3ff1f32598428b820672f2d3d8ad86">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9a453cac0d0f430fa6f954bfd3036e40">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4e8254d930b94ffc9249b9b940bfb575"
+        source="id-9a453cac0d0f430fa6f954bfd3036e40"
+        target="id-ff3f598a10fa480ab97ca7fbb2872b82">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-26d434f2c4b745a9b6b5495d7de7be9b.xml#id-26d434f2c4b745a9b6b5495d7de7be9b"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="96"
+        width="973"
+        height="589"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-bf889ddbe93040008e32d55694e57448.xml#id-bf889ddbe93040008e32d55694e57448"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ff3f598a10fa480ab97ca7fbb2872b82"
+      targetConnections="id-4e8254d930b94ffc9249b9b940bfb575">
+    <bounds
+        x="1068"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-b18578969345467b8cb2998b18d20003.xml#id-b18578969345467b8cb2998b18d20003"/>
+  </children>
+</archimate:ArchimateDiagramModel>

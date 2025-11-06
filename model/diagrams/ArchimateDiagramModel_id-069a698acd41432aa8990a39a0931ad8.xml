@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Capacidades Tem Tudo para Carros To_BE"
+    id="id-069a698acd41432aa8990a39a0931ad8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-82c394d52502449290e6a490da826833">
+    <bounds
+        x="60"
+        y="72"
+        width="1117"
+        height="733"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-b18578969345467b8cb2998b18d20003.xml#id-b18578969345467b8cb2998b18d20003"/>
+  </children>
+</archimate:ArchimateDiagramModel>
