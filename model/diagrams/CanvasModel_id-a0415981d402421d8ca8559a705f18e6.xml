@@ -267,7 +267,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-beaf1728f3614998af431b941f3661a8"
         fillColor="#ffff95"
-        content="Taxas de frete e serviços adicionais.&#xD;&#xA;Comissões de parceiros e afiliados.&#xD;&#xA;Vendas diretas pelo e-commerce.&#xD;&#xA;Publicidade e destaque de produtos na plataforma.&#xD;&#xA;"
+        content="Taxas de frete e serviços adicionais.&#xD;&#xA;Comissões de parceiros e afiliados.&#xD;&#xA;Vendas diretas pelo e-commerce.&#xD;&#xA;Publicidade e destaque de produtos na plataforma.&#xD;&#xA;Assinatura mensal"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
