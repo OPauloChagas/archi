@@ -18,9 +18,9 @@
     </sourceConnections>
     <bounds
         x="432"
-        y="78"
+        y="36"
         width="120"
-        height="55"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-6e1131123f6f42c9b78f4cc719b24c53.xml#id-6e1131123f6f42c9b78f4cc719b24c53"/>
