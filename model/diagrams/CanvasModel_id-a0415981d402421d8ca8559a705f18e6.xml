@@ -206,7 +206,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-4247959993ae45e8912fe7bdabea3363"
         fillColor="#ffff95"
-        content="Consumidor final (motoristas, mecânicos e entusiastas automotivos).&#xD;&#xA;Oficinas e revendas independentes.&#xD;&#xA;Empresas de frotas e transportadoras.&#xD;&#xA;Parceiros B2B e marketplaces."
+        content="Consumidor final (motoristas, mecânicos e entusiastas automotivos).&#xD;&#xA;Empresas de frotas e transportadoras.&#xD;&#xA;Parceiros B2B e marketplaces."
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -267,7 +267,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-beaf1728f3614998af431b941f3661a8"
         fillColor="#ffff95"
-        content="Taxas de frete e serviços adicionais.&#xD;&#xA;Comissões de parceiros e afiliados.&#xD;&#xA;Vendas diretas pelo e-commerce.&#xD;&#xA;Publicidade e destaque de produtos na plataforma.&#xD;&#xA;"
+        content="(On Demand)&#xD;&#xA;Taxas de frete e serviços adicionais.&#xD;&#xA;Comissões de parceiros e afiliados.&#xD;&#xA;Vendas diretas pelo e-commerce.&#xD;&#xA;Publicidade e destaque de produtos na plataforma.&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
