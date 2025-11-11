@@ -250,7 +250,7 @@
           x="612"
           y="60"
           width="120"
-          height="77"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-e8c9c86c8af447fa9d34d1faec4cfd13.xml#id-e8c9c86c8af447fa9d34d1faec4cfd13"/>
@@ -261,7 +261,7 @@
         targetConnections="id-2eac0692d3a54c9784a5c816a6c3fdbb id-1450b443695b4f03a511cc362e6a11ae">
       <bounds
           x="599"
-          y="168"
+          y="180"
           width="145"
           height="73"/>
       <archimateElement
