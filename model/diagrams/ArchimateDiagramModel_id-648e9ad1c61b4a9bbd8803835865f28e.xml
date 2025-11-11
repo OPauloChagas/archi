@@ -289,8 +289,8 @@
           href="AssignmentRelationship_id-a3052841617842b1a1d94f86b36ee70f.xml#id-a3052841617842b1a1d94f86b36ee70f"/>
     </sourceConnections>
     <bounds
-        x="89"
-        y="694"
+        x="144"
+        y="768"
         width="120"
         height="55"/>
     <archimateElement
@@ -319,8 +319,8 @@
           href="AssignmentRelationship_id-625cc314eb5049739b30025459ec925a.xml#id-625cc314eb5049739b30025459ec925a"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="694"
+        x="312"
+        y="768"
         width="120"
         height="55"/>
     <archimateElement
@@ -330,7 +330,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4373e0a43e67490897feb5ef232af995"
-      targetConnections="id-c019b018aa184a4780489d767300126b">
+      targetConnections="id-c019b018aa184a4780489d767300126b id-cc3781eff85a4d5fbbcbd908c518aad6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-47ad5a1351c44a12ba1c1ded4047313c"
@@ -491,5 +491,26 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-4cf42dbb672d40ec9433066fd4712820.xml#id-4cf42dbb672d40ec9433066fd4712820"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-69f0873150a044f2b1be32f4dfef98c7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cc3781eff85a4d5fbbcbd908c518aad6"
+        source="id-69f0873150a044f2b1be32f4dfef98c7"
+        target="id-4373e0a43e67490897feb5ef232af995">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-49060b05cb15473e979fcaba95d8efd5.xml#id-49060b05cb15473e979fcaba95d8efd5"/>
+    </sourceConnections>
+    <bounds
+        x="36"
+        y="696"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-572a88bffabc40bbb9937acf09a6e972.xml#id-572a88bffabc40bbb9937acf09a6e972"/>
   </children>
 </archimate:ArchimateDiagramModel>
