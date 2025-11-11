@@ -136,7 +136,7 @@
           x="41"
           y="168"
           width="133"
-          height="73"/>
+          height="109"/>
       <archimateElement
           xsi:type="archimate:Outcome"
           href="Outcome_id-2e2ecec5cecc40319a76940cc5752a17.xml#id-2e2ecec5cecc40319a76940cc5752a17"/>
@@ -149,7 +149,7 @@
           x="240"
           y="168"
           width="133"
-          height="73"/>
+          height="109"/>
       <archimateElement
           xsi:type="archimate:Outcome"
           href="Outcome_id-cb7337294b1246c89f6a54360cd03a00.xml#id-cb7337294b1246c89f6a54360cd03a00"/>
@@ -162,7 +162,7 @@
           x="432"
           y="168"
           width="133"
-          height="73"/>
+          height="109"/>
       <archimateElement
           xsi:type="archimate:Outcome"
           href="Outcome_id-f25499a1e60849e193e9f3fb469a4b45.xml#id-f25499a1e60849e193e9f3fb469a4b45"/>
@@ -184,7 +184,7 @@
           x="48"
           y="60"
           width="120"
-          height="77"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-65813dfe5c7148de992bea20247824c5.xml#id-65813dfe5c7148de992bea20247824c5"/>
@@ -206,7 +206,7 @@
           x="216"
           y="61"
           width="181"
-          height="75"/>
+          height="84"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-6e1131123f6f42c9b78f4cc719b24c53.xml#id-6e1131123f6f42c9b78f4cc719b24c53"/>
@@ -228,7 +228,7 @@
           x="439"
           y="64"
           width="120"
-          height="69"/>
+          height="81"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-2873cb7e18b3468bab6994832c7a6410.xml#id-2873cb7e18b3468bab6994832c7a6410"/>
@@ -261,9 +261,9 @@
         targetConnections="id-2eac0692d3a54c9784a5c816a6c3fdbb id-1450b443695b4f03a511cc362e6a11ae">
       <bounds
           x="599"
-          y="180"
+          y="168"
           width="145"
-          height="73"/>
+          height="109"/>
       <archimateElement
           xsi:type="archimate:Outcome"
           href="Outcome_id-6b0d432e40024161bc6853e830d1c594.xml#id-6b0d432e40024161bc6853e830d1c594"/>
